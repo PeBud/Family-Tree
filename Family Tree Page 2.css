@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 5px;
+  padding: 10px;
+  background-image: linear-gradient(to bottom right, #E0FFFF, #F0FFFF);
+  font-size: 20px;
+  font-style: oblique;
+  font-family: cursive;
+  color: #708090;
+  }
+
+  nav {
+    float: right;
+    width: 25%
+    background-color: #ADD8E6;
+    padding: 20px;
+  }
+
+.footer {
+font-size: 6px;
+font-family: fantasy;
+display: block;
+}
+
+input {
+  margin: 5px, 0;
+  padding: 10px 2px;
+  box-sizing:content-box;
+  border: 5px;
+}
+
+input [type=text] {
+  border: 5px;
+  width: 250px;
+}
