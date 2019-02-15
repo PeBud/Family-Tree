@@ -20,6 +20,21 @@ body {
     padding: 20px;
   }
 
+  .column {
+    float: left;
+    padding: 10px;
+  }
+
+  .left {
+    float: left;
+    width: 35%
+  }
+
+  .right{
+    width: 35%
+    float: right;
+  }
+
 .footer {
 font-size: 6px;
 font-family: fantasy;
